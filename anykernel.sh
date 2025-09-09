@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kurap1ka Kernel For Redmi Note 9 by @vq6oon
+kernel.string=Entering Isekai, Please Wait...
 do.devicecheck=0
 do.modules=0
 do.systemless=1
